@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://jtwray.github.io/csb-y3wm52/static/css/main.6f5b2a24.chunk.css",
+    "main.js": "https://jtwray.github.io/csb-y3wm52/static/js/main.e90b71e6.chunk.js",
+    "main.js.map": "https://jtwray.github.io/csb-y3wm52/static/js/main.e90b71e6.chunk.js.map",
+    "runtime-main.js": "https://jtwray.github.io/csb-y3wm52/static/js/runtime-main.a50f105c.js",
+    "runtime-main.js.map": "https://jtwray.github.io/csb-y3wm52/static/js/runtime-main.a50f105c.js.map",
+    "static/css/2.0d309abc.chunk.css": "https://jtwray.github.io/csb-y3wm52/static/css/2.0d309abc.chunk.css",
+    "static/js/2.288931f5.chunk.js": "https://jtwray.github.io/csb-y3wm52/static/js/2.288931f5.chunk.js",
+    "static/js/2.288931f5.chunk.js.map": "https://jtwray.github.io/csb-y3wm52/static/js/2.288931f5.chunk.js.map",
+    "index.html": "https://jtwray.github.io/csb-y3wm52/index.html",
+    "static/css/2.0d309abc.chunk.css.map": "https://jtwray.github.io/csb-y3wm52/static/css/2.0d309abc.chunk.css.map",
+    "static/css/main.6f5b2a24.chunk.css.map": "https://jtwray.github.io/csb-y3wm52/static/css/main.6f5b2a24.chunk.css.map",
+    "static/js/2.288931f5.chunk.js.LICENSE.txt": "https://jtwray.github.io/csb-y3wm52/static/js/2.288931f5.chunk.js.LICENSE.txt",
+    "static/media/1037x578.0623fc92.png": "https://jtwray.github.io/csb-y3wm52/static/media/1037x578.0623fc92.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a50f105c.js",
+    "static/css/2.0d309abc.chunk.css",
+    "static/js/2.288931f5.chunk.js",
+    "static/css/main.6f5b2a24.chunk.css",
+    "static/js/main.e90b71e6.chunk.js"
+  ]
+}
